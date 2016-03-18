@@ -50,7 +50,7 @@ final class StaticWordLibrary extends WordLibrary {
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
-        "dnuh",
+        "Dnuh",
         "Tak",
         "Lots",
         "Drob",
