@@ -37,21 +37,29 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "Dog_1",
-        "Cat",
-        "Table",
-        "Chair",
-        "Window",
-        "Penis"
+        "Hund",
+        "Kat",
+        "Stol",
+        "Bord",
+        "Vindue",
+        "Menneske",
+        "Tavle",
+        "Træ",
+        "Frø",
+        "Lampe"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
-        "God",
-        "Tac",
-        "Bleat",
-        "Richa",
-        "Dinwow",
-        "Senip"
+        "dnuh",
+        "Tak",
+        "Lots",
+        "Drob",
+        "Eudniv",
+        "Eksennem",
+        "Elvat",
+        "Ært",
+        "Ørf",
+        "Epmal"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
